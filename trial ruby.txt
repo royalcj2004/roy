@@ -1,0 +1,14 @@
+Ruby Studies
+Arrays
+Hashes
+While loop vs For loop
+.each and .map 
+conditionals
+case statements
+unless and if
+split vs join
+instances/objects
+instance variables
+instance vs class methods
+
+Numerables (super power, etc)
